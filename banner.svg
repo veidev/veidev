@@ -45,8 +45,8 @@
       <div class="terminal">
         <div class="scanline"></div>
 
-        <div class="header">SYSTEM_UPLINK // ID: h0tk</div>
-        <div class="sub-header">DEVELOPER | OPEN SOURCE | BUILDER</div>
+        <div class="header">SYSTEM_UPLINK // ID: vei</div>
+        <div class="sub-header">BUILDING WEB EXPERIENCES & GAME SYSTEMS</div>
 
         <div class="grid">
           <div class="col">
@@ -67,7 +67,7 @@
         </div>
 
         <div class="lang-stack">
-          &gt; STACK: TYPESCRIPT | PYTHON | RUST | GO | SQL
+          &gt; STACK: TYPESCRIPT | PYTHON | SQL | WEB DEVELOPMENT
         </div>
 
         <div style="margin-top: 30px; font-size: 13px; border-top: 1px solid rgba(0, 255, 65, 0.2); padding-top: 15px;">
@@ -77,7 +77,7 @@
         </div>
 
         <div class="footer">
-          HELLO GITHUB @h0tk � 2026
+          HELLO GITHUB @veidev � 2026
         </div>
       </div>
     </div>
